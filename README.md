@@ -6,3 +6,6 @@ Flask-auth-Api is a Flask user-authentication and course-enrollment application 
 # WorkFlow
 
 [![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/tulipcoder/flask-auth-api?utm_source=readme&utm_medium=badge)
+
+
+[![Architecture diagram of tulipcoder/flask-auth-api](https://gitdiagram.com/tulipcoder/flask-auth-api/diagram.png)](https://gitdiagram.com/tulipcoder/flask-auth-api?utm_source=readme&utm_medium=picture)
